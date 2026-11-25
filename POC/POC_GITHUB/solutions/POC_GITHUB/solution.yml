@@ -1,0 +1,17 @@
+ImportExportXml:
+  '@version': 9.2.26112.144
+  '@SolutionPackageVersion': 9.2
+  '@languagecode': 3082
+  '@generatedBy': CrmLive
+  '@xmlns:xsi': http://www.w3.org/2001/XMLSchema-instance
+  SolutionManifest:
+    UniqueName: POC_GITHUB
+    LocalizedNames:
+      LocalizedName:
+        '@description': POC_GITHUB
+        '@languagecode': 3082
+    Descriptions: 
+    Version: 1.0.0.0
+    Managed: 0
+    Publisher:
+      UniqueName: JATSW

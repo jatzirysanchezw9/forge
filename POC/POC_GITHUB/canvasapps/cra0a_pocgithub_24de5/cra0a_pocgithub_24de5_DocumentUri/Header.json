@@ -1,0 +1,10 @@
+{
+  "DocVersion": "1.349",
+  "MinVersionToLoad": "1.349",
+  "MSAppStructureVersion": "2.4.0",
+  "LastSavedDateTimeUTC": "11/24/2026 22:31:31",
+  "AnalysisOptions": {
+    "DataflowAnalysisEnabled": true,
+    "DataflowAnalysisFlagStateToggledByUser": false
+  }
+}
